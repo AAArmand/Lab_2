@@ -1,0 +1,7 @@
+C:\Users\arman\Desktop\proj\C#\Labs\#2\Lab_2\Lab_2\bin\Debug\Lab_2.exe.config
+C:\Users\arman\Desktop\proj\C#\Labs\#2\Lab_2\Lab_2\bin\Debug\Lab_2.exe
+C:\Users\arman\Desktop\proj\C#\Labs\#2\Lab_2\Lab_2\bin\Debug\Lab_2.pdb
+C:\Users\arman\Desktop\proj\C#\Labs\#2\Lab_2\Lab_2\obj\Debug\Lab_2.csprojResolveAssemblyReference.cache
+C:\Users\arman\Desktop\proj\C#\Labs\#2\Lab_2\Lab_2\obj\Debug\Lab_2.csproj.CoreCompileInputs.cache
+C:\Users\arman\Desktop\proj\C#\Labs\#2\Lab_2\Lab_2\obj\Debug\Lab_2.exe
+C:\Users\arman\Desktop\proj\C#\Labs\#2\Lab_2\Lab_2\obj\Debug\Lab_2.pdb
